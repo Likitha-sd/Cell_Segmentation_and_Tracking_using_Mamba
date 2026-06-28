@@ -27,9 +27,10 @@ The project explores automated biomedical image segmentation, focusing on cell d
 ---
 
 ## 📷 Training Results
-I will add training screenshots and plots here (loss curves, Dice scores, segmentation outputs).
+--loss curves, Dice scores and segmentation outputs:
+<img width="935" height="697" alt="Screenshot_27-6-2026_141447_colab research google com" src="https://github.com/user-attachments/assets/5c928984-8cd7-41e7-a8c5-a21bce01eae7" />
 
----
+
 
 ## 🚀 How to Run
 1. Clone this repo:
