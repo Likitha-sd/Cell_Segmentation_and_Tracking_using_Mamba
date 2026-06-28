@@ -30,7 +30,11 @@ The project explores automated biomedical image segmentation, focusing on cell d
 --loss curves, Dice scores and segmentation outputs:
 <img width="935" height="697" alt="Screenshot_27-6-2026_141447_colab research google com" src="https://github.com/user-attachments/assets/5c928984-8cd7-41e7-a8c5-a21bce01eae7" />
 
+Preprocessing status:
 
+<img width="914" height="643" alt="Screenshot_27-6-2026_143246_colab research google com" src="https://github.com/user-attachments/assets/5b48ec3c-f9dc-4482-b0ac-60dad53189e9" />
+
+--Results and graphs can be viewed in nnunet_results folder--
 
 ## 🚀 How to Run
 1. Clone this repo:
